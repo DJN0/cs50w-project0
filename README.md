@@ -3,7 +3,7 @@
 
 Web Programming with Python and JavaScript
 
-For Project 0, I created a small website to display some pictures of my trip to Japan as well as to share useful resources for visiting Japan. Here is a description of what's contained in each file:
+For Project 0, I created [a small website](https://djn0.github.io/cs50w-project0/jp-links.html) to display some pictures of my trip to Japan as well as to share useful resources for visiting Japan. Here is a description of what's contained in each file:
 
 ##### CSS folder
 
